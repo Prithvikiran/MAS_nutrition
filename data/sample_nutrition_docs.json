@@ -1,0 +1,62 @@
+[
+  {
+    "id": "doc-001",
+    "topic": "macronutrients",
+    "text": "Protein needs for muscle maintenance are generally 0.8-1.0 grams per kilogram of body weight for sedentary adults, rising to 1.6-2.2 g/kg for those doing regular resistance training. Complete protein sources (eggs, dairy, meat, soy) provide all essential amino acids in one meal."
+  },
+  {
+    "id": "doc-002",
+    "topic": "macronutrients",
+    "text": "Carbohydrates are the body's primary energy source, especially for high-intensity exercise. Whole grains, legumes, and fruit provide fiber alongside carbohydrate energy, which slows glucose absorption compared to refined sugar."
+  },
+  {
+    "id": "doc-003",
+    "topic": "weight-loss",
+    "text": "Sustainable weight loss generally comes from a moderate caloric deficit of 300-500 calories per day below maintenance, rather than aggressive deficits, which tend to increase muscle loss and rebound weight gain."
+  },
+  {
+    "id": "doc-004",
+    "topic": "weight-loss",
+    "text": "High-protein diets during a caloric deficit help preserve lean muscle mass. Combined with resistance training, this improves body composition outcomes compared to caloric restriction alone."
+  },
+  {
+    "id": "doc-005",
+    "topic": "micronutrients",
+    "text": "Iron deficiency is common in plant-based diets due to the lower bioavailability of non-heme iron. Pairing iron-rich plant foods with vitamin C sources significantly improves absorption."
+  },
+  {
+    "id": "doc-006",
+    "topic": "micronutrients",
+    "text": "Vitamin D is synthesized from sun exposure but is commonly deficient in people with limited outdoor time or darker skin tone at higher latitudes. Fatty fish, fortified dairy, and supplementation are common dietary sources."
+  },
+  {
+    "id": "doc-007",
+    "topic": "diabetes",
+    "text": "For type 2 diabetes management, glycemic index and meal timing both affect post-meal blood glucose spikes. Pairing carbohydrates with protein, fat, or fiber blunts the glucose response compared to eating carbohydrates alone."
+  },
+  {
+    "id": "doc-008",
+    "topic": "diabetes",
+    "text": "Consistent carbohydrate intake across meals, rather than highly variable portions, helps with more predictable blood glucose management for people on fixed insulin dosing schedules."
+  },
+  {
+    "id": "doc-009",
+    "topic": "athletic-performance",
+    "text": "Endurance athletes benefit from carbohydrate loading in the 24-48 hours before an event to maximize glycogen stores. During events over 90 minutes, 30-60g of carbohydrate per hour helps maintain performance."
+  },
+  {
+    "id": "doc-010",
+    "topic": "athletic-performance",
+    "text": "Post-exercise recovery nutrition within 30-60 minutes, combining carbohydrate and protein at roughly a 3:1 or 4:1 ratio, supports glycogen replenishment and muscle protein synthesis."
+  },
+  {
+    "id": "doc-011",
+    "topic": "hydration",
+    "text": "Fluid needs scale with body size, activity level, and climate, but a common baseline is roughly 30-35 ml per kg of body weight per day, increasing significantly during exercise or heat exposure."
+  },
+  {
+    "id": "doc-012",
+    "topic": "meal-planning",
+    "text": "A balanced plate framework — roughly half non-starchy vegetables, a quarter lean protein, a quarter whole grains or starchy vegetables — is a simple heuristic that works across most dietary goals without requiring calorie counting."
+  }
+]
